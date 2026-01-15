@@ -1,6 +1,6 @@
 # Cppcat
 
-A minimal [cat](https://en.wikipedia.org/wiki/Cat_(Unix)) program written in C++
+A minimal [cat](https://en.wikipedia.org/wiki/Cat_(Unix)) program written in [C++](https://en.wikipedia.org/wiki/C%2B%2B)
 
 ## Quick Start
 
